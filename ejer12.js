@@ -43,7 +43,7 @@ if (diaActual > 30) {
 }
 
 /////////////////////////////////////////////////////////////////////
-Versión con la API Temporal
+//Versión con la API Temporal
 
 "use strict";
 
